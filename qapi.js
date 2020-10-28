@@ -5,17 +5,17 @@ export default {
 			"pageUrl": "root",
 			"name": "root",
 			"children": [
-				"5f589c347e1a0a001e0ca4d4",
-				"5f589c347e1a0a001e0ca4d6"
+				"5e6a2acd3ca8040017b26f72",
+				"5e6a2acd3ca8040017b26f74"
 			]
 		},
-		"5f589c347e1a0a001e0ca4d4": {
-			"id": "5f589c347e1a0a001e0ca4d4",
+		"5e6a2acd3ca8040017b26f72": {
+			"id": "5e6a2acd3ca8040017b26f72",
 			"name": "404",
 			"pageUrl": "404"
 		},
-		"5f589c347e1a0a001e0ca4d6": {
-			"id": "5f589c347e1a0a001e0ca4d6",
+		"5e6a2acd3ca8040017b26f74": {
+			"id": "5e6a2acd3ca8040017b26f74",
 			"name": "index",
 			"pageUrl": "index"
 		}
